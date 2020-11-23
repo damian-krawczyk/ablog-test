@@ -1,51 +1,55 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020, Damian Krawczyk
 # This file is distributed under the same license as the ablog-test package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Damian Krawczyk <damian.krawczyk@limberduck.org>, 2020
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ablog-test \n"
+"Project-Id-Version: ablog-test\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-23 09:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-11-23 11:11+0000\n"
+"Last-Translator: Damian Krawczyk <damian.krawczyk@limberduck.org>, 2020\n"
+"Language-Team: Polish (https://www.transifex.com/none-783/teams/114981/pl/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/archives.html:3
 #: 3c34ccb4a05d4a2e9c8a49c580cfbb76
 msgid "Archives"
-msgstr ""
+msgstr "Archiwum"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/authors.html:2
 #: 2503c6a41e844dccab3f96e135fd8c08
 msgid "Authors"
-msgstr ""
+msgstr "Autorzy"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/categories.html:3
 #: b5ddaebb83c344f1a34333017a41a7b4
 msgid "Categories"
-msgstr ""
+msgstr "Kategorie"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/collection.html:47
 #: 6ce5fedca2c54674a9a4fe237d1d689f
 msgid "Read more ..."
-msgstr ""
+msgstr "Przeczytaj więcej ..."
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/languages.html:3
 #: ca80642052a8415d9c0b752b9f5f8278
 msgid "Languages"
-msgstr ""
+msgstr "Języki"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/locations.html:3
 #: 3937599e827948078982b6de00f7e3d7
 msgid "Locations"
-msgstr ""
+msgstr "Lokalizacje"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/postcard2.html:5
 #: 8979c13752d741c4925f0889eba1aa65
@@ -55,46 +59,45 @@ msgstr ""
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/postcard2.html:12
 #: 19af7c896fa54848a2097ed54464f887
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/postcard2.html:24
 #: cbfd6d995ba346c8ba4c20ebce4ae35e
 msgid "Location"
-msgstr ""
+msgstr "Lokalizacja"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/postcard2.html:35
 #: 6c5faf9f2b5c48019a2982c547dfbeb3
 msgid "Language"
-msgstr ""
+msgstr "Język"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/postcard2.html:46
 #: 0f94d2cf58c14ab494815637c19d1e28
 msgid "Category"
-msgstr ""
+msgstr "Kategoria"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/postcard2.html:57
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/tagcloud.html:2
-#: 8d09ab56e370441381553b86f7d87882 93b61155f1f240d699d02b7b37b69ab6
+#: 93b61155f1f240d699d02b7b37b69ab6 8d09ab56e370441381553b86f7d87882
 msgid "Tags"
-msgstr ""
+msgstr "Tagi"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/postcard2.html:60
 #: 0609dfe1315f40dcae768e3f63fc334c
 msgid "Tag"
-msgstr ""
+msgstr "Tag"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/postnavy.html:5
 #: 535937db35194345a4eff87f5c159b07
 msgid "Previous"
-msgstr ""
+msgstr "Poprzedni"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/postnavy.html:15
 #: 92060760ab8c4b13a7983b825ac866f7
 msgid "Next"
-msgstr ""
+msgstr "Następny"
 
 #: ../../../../../../../.virtualenvs/ablog-test/lib/python3.7/site-packages/ablog/templates/recentposts.html:3
 #: ebd627b55a034622891b7c133a230d8a
 msgid "Recent Posts"
-msgstr ""
-
+msgstr "Ostatnie posty"

@@ -1,31 +1,34 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020, Damian Krawczyk
 # This file is distributed under the same license as the ablog-test package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Damian Krawczyk <damian.krawczyk@limberduck.org>, 2020
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ablog-test \n"
+"Project-Id-Version: ablog-test\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-23 09:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-11-23 11:11+0000\n"
+"Last-Translator: Damian Krawczyk <damian.krawczyk@limberduck.org>, 2020\n"
+"Language-Team: Polish (https://www.transifex.com/none-783/teams/114981/pl/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
 #: ../../index.rst:7 f6638b7f5b6f45cb83da9d6dccfd971f
 msgid "Welcome to Damian Krawczyk's Blog!"
-msgstr ""
+msgstr "Witaj na blogu Damiana Krawczyka"
 
 #: ../../index.rst:9 5be6364548e049d59b1db6dac8be14e9
 msgid "Hello World! Find more about me here: :ref:`about`"
-msgstr ""
+msgstr "Witaj Świecie! Dowiedz się o mnie więcej na stronie: :ref:`about`"
 
 #: ../../index.rst:12 e9d876687b574b43a087a875c1dcaa35
 msgid "Here is a list of most recent posts:"
-msgstr ""
-
+msgstr "Lista ostatnich postów:"
