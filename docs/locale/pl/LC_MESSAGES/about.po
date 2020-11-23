@@ -1,0 +1,27 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Damian Krawczyk
+# This file is distributed under the same license as the ablog-test package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ablog-test \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-23 09:38+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../about.rst:5 dabe36de7a5e4436ba60686aeb4d4865
+msgid "About Damian Krawczyk"
+msgstr ""
+
+#: ../../about.rst:7 35c54e3d81da45cebf2f320865ea4218
+msgid "The world wants to know more about you."
+msgstr ""
+

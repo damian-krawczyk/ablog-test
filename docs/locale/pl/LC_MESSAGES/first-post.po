@@ -1,0 +1,34 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Damian Krawczyk
+# This file is distributed under the same license as the ablog-test package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ablog-test \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-23 09:38+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../first-post.rst:9 2d41b1517ff045509d2a60b80e19338e
+msgid "First Post"
+msgstr ""
+
+#: ../../first-post.rst:11 e68b0c61f09043acbfdccebf08ad7f2f
+msgid ""
+"World, hello again! This very first paragraph of the post will be used as"
+" excerpt in archives and feeds. Find out how to control how much is shown"
+" in `Post Excerpts and Images <https://ablog.readthedocs.org/manual/post-"
+"excerpts-and-images/>`__. Remember that you can refer to posts by file "
+"name, e.g. ``:ref:`first-post``` results in :ref:`first-post`. Find out "
+"more at `Cross-Referencing Blog Pages "
+"<https://ablog.readthedocs.org/manual/cross-referencing-blog-pages/>`__."
+msgstr ""
+

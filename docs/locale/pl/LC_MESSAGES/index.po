@@ -1,0 +1,31 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Damian Krawczyk
+# This file is distributed under the same license as the ablog-test package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ablog-test \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-23 09:38+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../index.rst:7 f6638b7f5b6f45cb83da9d6dccfd971f
+msgid "Welcome to Damian Krawczyk's Blog!"
+msgstr ""
+
+#: ../../index.rst:9 5be6364548e049d59b1db6dac8be14e9
+msgid "Hello World! Find more about me here: :ref:`about`"
+msgstr ""
+
+#: ../../index.rst:12 e9d876687b574b43a087a875c1dcaa35
+msgid "Here is a list of most recent posts:"
+msgstr ""
+
