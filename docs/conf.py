@@ -341,3 +341,8 @@ html_static_path = ['_static']
 htmlhelp_basename = 'ablog-testdoc'
 
 
+locale_dirs = ['locale/']   # path is example but recommended.
+
+# https://docs.readthedocs.io/en/stable/guides/manage-translations.html
+gettext_compact = False     # optional.
+gettext_uuid = True
