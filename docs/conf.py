@@ -340,9 +340,9 @@ html_static_path = ['_static']
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'ablog-testdoc'
 
-
+# https://www.sphinx-doc.org/en/master/usage/advanced/intl.html#quick-guide
 locale_dirs = ['locale/']   # path is example but recommended.
+gettext_compact = False     # optional.
 
 # https://docs.readthedocs.io/en/stable/guides/manage-translations.html
-gettext_compact = False     # optional.
 gettext_uuid = True
