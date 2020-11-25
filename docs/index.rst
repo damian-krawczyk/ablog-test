@@ -26,5 +26,5 @@ Here is a list of most recent posts:
    :hidden:
 
    about
-   second-post
+
 
