@@ -22,9 +22,14 @@ Here is a list of most recent posts:
    Posts are excluded from this directive so that they aren't double listed
    in the sidebar both under Navigation and Recent Posts.
 
+.. .. toctree::
+..    :hidden:
+
+..    about
+
 .. toctree::
    :hidden:
+   :glob:
 
-   about
-
+   *
 
