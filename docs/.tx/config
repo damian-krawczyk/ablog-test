@@ -25,3 +25,9 @@ source_file = _build/gettext/index.pot
 source_lang = en
 type = PO
 
+[ablog-test._build_gettext_second-post]
+file_filter = locale/<lang>/LC_MESSAGES/second-post.po
+source_file = _build/gettext/second-post.pot
+source_lang = en
+type = PO
+
