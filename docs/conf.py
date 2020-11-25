@@ -194,7 +194,7 @@ author = u'Damian Krawczyk'
 # built documents.
 #
 # The short X.Y version.
-version = ''
+version = '0.0.1'
 # The full version, including alpha/beta/rc tags.
 release = ''
 
@@ -346,3 +346,7 @@ gettext_compact = False     # optional.
 
 # https://docs.readthedocs.io/en/stable/guides/manage-translations.html
 gettext_uuid = True
+
+html_theme_options = {
+    'body_min_width': "300px",
+}
